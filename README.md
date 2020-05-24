@@ -1,2 +1,2 @@
 # website
-*This is the udate that i will make in the test Branch.*
+*This is the update that i will make in the test Branch.*
